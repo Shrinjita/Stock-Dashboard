@@ -1,3 +1,6 @@
+## Description
+The Stock Dashboard is an interactive web application designed to visualize stock market data. Built using Streamlit, this dashboard allows users to track and analyze stock performance, providing insights into market trends and investment opportunities. With various visualizations and metrics, users can make informed decisions about their stock investments.
+
 ## Features
 - **Interactive Visualizations**: Dynamic charts and graphs for visualizing stock prices and trends.
 - **Real-Time Data**: Displays up-to-date stock information.
